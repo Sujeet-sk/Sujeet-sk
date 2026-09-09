@@ -64,22 +64,15 @@ Engineering graduate and aspiring **software developer** with a strong foundatio
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" alt="divider"/>
 
-## 📊 GitHub Analytics
+## 🎯 GitHub Analytics
 
-## 📊 GitHub Analytics
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sujeet-sk&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies"/>
-</p>
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Sujeet-sk&theme=onedark&no-frame=true&column=7&margin-w=5)](https://github.com/Sujeet-sk)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sujeet-sk&theme=radical&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity Graph"/>
-</p>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sujeet-sk&theme=react-dark&hide_border=true)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Active%20Since-Feb%202025-00ffcc?style=for-the-badge&labelColor=0d1117&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Problems%20Solved-250%2B-FFA116?style=for-the-badge&labelColor=0d1117&logo=leetcode&logoColor=FFA116"/>
-</p>
+</div>
 
 ## 🎯 Featured Projects
 
