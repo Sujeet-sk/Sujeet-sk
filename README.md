@@ -68,11 +68,11 @@ Engineering graduate and aspiring **software developer** with a strong foundatio
 
 <p align="center">
   <a href="https://github.com/Sujeet-sk">
-    <img src="https://github-readme-stats.vercel.app/api?username=Sujeet-sk&show_icons=true&theme=radical&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&card_width=440&cache_seconds=1800&v=2" alt="GitHub Stats" height="180"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Sujeet-sk&show_icons=true&theme=radical&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&v=3" alt="GitHub Stats" height="180"/>
   </a>
   &nbsp;
   <a href="https://github.com/Sujeet-sk">
-    <img src="https://streak-stats.demolab.com?user=Sujeet-sk&theme=radical&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=440&v=2" alt="GitHub Streak" height="180"/>
+    <img src="https://streak-stats.demolab.com?user=Sujeet-sk&theme=radical&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&v=3" alt="GitHub Streak" height="180"/>
   </a>
 </p>
 
