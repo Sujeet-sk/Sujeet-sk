@@ -68,11 +68,11 @@ Engineering graduate and aspiring **software developer** with a strong foundatio
 
 <p align="center">
   <a href="https://github.com/Sujeet-sk">
-    <img src="https://github-readme-stats.vercel.app/api?username=Sujeet-sk&show_icons=true&theme=radical&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&v=3" alt="GitHub Stats" height="180"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Sujeet-sk&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" height="180"/>
   </a>
   &nbsp;
   <a href="https://github.com/Sujeet-sk">
-    <img src="https://streak-stats.demolab.com?user=Sujeet-sk&theme=radical&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&v=3" alt="GitHub Streak" height="180"/>
+    <img src="https://streak-stats.demolab.com?user=Sujeet-sk&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="180"/>
   </a>
 </p>
 
@@ -80,9 +80,6 @@ Engineering graduate and aspiring **software developer** with a strong foundatio
   <img src="https://img.shields.io/badge/Active%20Since-Feb%202025-00ffcc?style=for-the-badge&labelColor=0d1117&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Problems%20Solved-250%2B-FFA116?style=for-the-badge&labelColor=0d1117&logo=leetcode&logoColor=FFA116"/>
 </p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" alt="divider"/>
-
 ## 🎯 Featured Projects
 
 <table>
