@@ -64,13 +64,22 @@ Engineering graduate and aspiring **software developer** with a strong foundatio
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" alt="divider"/>
 
-## 🎯 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Sujeet-sk&theme=onedark&no-frame=true&column=7&margin-w=5)](https://github.com/Sujeet-sk)
+### 🔥 Streak Stats
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sujeet-sk&theme=react-dark&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sujeet-sk&theme=radical&hide_border=true&locale=en" alt="GitHub Streak" />
+
+### 📈 GitHub Profile Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sujeet-sk&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&locale=en" height="180" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujeet-sk&layout=compact&theme=radical&hide_border=true&locale=en&langs_count=8" height="180" alt="Top Languages" />
+
+### 📉 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sujeet-sk&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
 
 </div>
 
