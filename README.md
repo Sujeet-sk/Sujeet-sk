@@ -68,9 +68,8 @@ Engineering graduate and aspiring **software developer** with a strong foundatio
 
 <div align="center">
 
-### 🔥 Streak Stats
-
-<img src="https://streak-stats.demolab.com/?user=Sujeet-sk&theme=radical&hide_border=true&locale=en&v=2" alt="GitHub Streak" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sujeet-sk&show_icons=true&count_private=true&hide_border=true&theme=radical&include_all_commits=true" alt="Sujeet's GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujeet-sk&layout=compact&hide_border=true&theme=radical&langs_count=8" alt="Top Languages" />
 
 </div>
 
@@ -93,22 +92,22 @@ Engineering graduate and aspiring **software developer** with a strong foundatio
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 Anthropomorphic Robotic Hand</h3>
-      <p><em>Embedded C · STM32 · ARM Cortex-M4</em></p>
-      <p>Led a team of four to translate flex-sensor finger movement into real-time robotic-hand motion through a calibrated ADC-to-PWM control pipeline, with firmware partitioned into independent, testable signal-processing and motor-control routines.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔐 Keypad PIN Security System</h3>
-      <p><em>Embedded C · STM32 · LCD</em></p>
-      <p>A self-contained PIN-based access-control system on an STM32 microcontroller, reading a 4×4 matrix keypad over GPIO and giving real-time LCD feedback, with firmware cleanly split into input, validation-logic, and display modules.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h3>📚 DSA Repository</h3>
       <p><em>Java · Problem Solving</em></p>
       <p>A growing collection of 250+ Data Structures & Algorithms solutions across LeetCode and GeeksforGeeks, organized by topic with a focus on time and space complexity analysis.
       <br><a href="https://github.com/Sujeet-sk/Data-Structures-and-Algorithms">→ View Repository</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 Anthropomorphic Robotic Hand</h3>
+      <p><em>Embedded C · STM32 · ARM Cortex-M4</em></p>
+      <p>Led a team of four to translate flex-sensor finger movement into real-time robotic-hand motion through a calibrated ADC-to-PWM control pipeline, with firmware partitioned into independent, testable signal-processing and motor-control routines.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔐 Keypad PIN Security System</h3>
+      <p><em>Embedded C · STM32 · LCD</em></p>
+      <p>A self-contained PIN-based access-control system on an STM32 microcontroller, reading a 4×4 matrix keypad over GPIO and giving real-time LCD feedback, with firmware cleanly split into input, validation-logic, and display modules.</p>
     </td>
     <td width="50%" valign="top">
     </td>
