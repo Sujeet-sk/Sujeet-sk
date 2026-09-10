@@ -81,26 +81,36 @@ Engineering graduate and aspiring **software developer** with a strong foundatio
     <td width="50%" valign="top">
       <h3>👥 Employee Management System</h3>
       <p><em>Java · JDBC · MySQL · HikariCP · JUnit · Maven</em></p>
-      <p>Built an end-to-end CRUD and reporting application on a layered architecture (model / DAO / service / UI), backed by MySQL through a pooled JDBC connection. Added transactional department reassignment and SQL aggregation reporting, with a JUnit-tested service layer using parameterized queries and constructor injection throughout.
+      <p>End-to-end CRUD and reporting application on a layered architecture (model / DAO / service / UI), backed by MySQL through a pooled JDBC connection. Features transactional department reassignment, a SQL aggregation report (per-department headcount, salary stats, and payroll), parameterized queries, and a JUnit-tested service layer.
       <br><a href="https://github.com/Sujeet-sk/employee-management-system">→ View Repository</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 Anthropomorphic Robotic Hand</h3>
-      <p><em>Embedded C · STM32 · ARM Cortex-M4</em></p>
-      <p>Led a small team to translate flex-sensor finger movement into robotic-hand motion via a calibrated ADC-to-PWM signal pipeline, with firmware partitioned into independently testable routines.</p>
+      <h3>✅ TaskFlow — Task Manager</h3>
+      <p><em>HTML5 · CSS3 · JavaScript</em></p>
+      <p>A responsive task-management dashboard built in vanilla JavaScript. Supports full CRUD with categories, priorities, search, and date-based filters, persists data in the browser via localStorage, and renders live statistics plus a weekly analytics chart driven entirely by DOM manipulation.
+      <br><a href="https://github.com/Sujeet-sk/ToDo-App">→ View Repository</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3>🤖 Anthropomorphic Robotic Hand</h3>
+      <p><em>Embedded C · STM32 · ARM Cortex-M4</em></p>
+      <p>Led a team of four to translate flex-sensor finger movement into real-time robotic-hand motion through a calibrated ADC-to-PWM control pipeline, with firmware partitioned into independent, testable signal-processing and motor-control routines.</p>
+    </td>
+    <td width="50%" valign="top">
       <h3>🔐 Keypad PIN Security System</h3>
       <p><em>Embedded C · STM32 · LCD</em></p>
-      <p>PIN-based access control with matrix-keypad input over GPIO, real-time LCD feedback, and firmware split into clean input / logic / display modules.</p>
+      <p>A self-contained PIN-based access-control system on an STM32 microcontroller, reading a 4×4 matrix keypad over GPIO and giving real-time LCD feedback, with firmware cleanly split into input, validation-logic, and display modules.</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>📚 DSA Repository</h3>
       <p><em>Java · Problem Solving</em></p>
-      <p>Growing collection of Data Structures & Algorithms problems and solutions with a focus on time/space complexity analysis.
+      <p>A growing collection of 250+ Data Structures & Algorithms solutions across LeetCode and GeeksforGeeks, organized by topic with a focus on time and space complexity analysis.
       <br><a href="https://github.com/Sujeet-sk/Data-Structures-and-Algorithms">→ View Repository</a></p>
+    </td>
+    <td width="50%" valign="top">
     </td>
   </tr>
 </table>
