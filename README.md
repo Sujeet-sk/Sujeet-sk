@@ -70,7 +70,7 @@ Engineering graduate and aspiring **software developer** with a strong foundatio
 
 ### 🔥 Streak Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sujeet-sk&theme=radical&hide_border=true&locale=en" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=Sujeet-sk&theme=radical&hide_border=true&locale=en&v=2" alt="GitHub Streak" />
 
 </div>
 
