@@ -1,5 +1,11 @@
-<h1 align="center">Sujeet Kumar</h1>
-<p align="center"><strong>Software Developer</strong></p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sujeet%20Kumar&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=30&font=Kanit&desc=Software%20Developer&descSize=20&descAlignY=55" alt="header"/>
+
+<p align="center">
+  <a href="https://github.com/Sujeet-sk">
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=24&pause=1000&color=FF6EC7&center=true&vCenter=true&width=500&lines=Software+Developer;DSA+Enthusiast;Exploring+Technologies;Building+Projects%2C+Solving+Problems" alt="Typing SVG"/>
+  </a>
+</p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sujeet-kumar-55659a289/">
@@ -12,11 +18,11 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
   <a href="https://www.geeksforgeeks.org/profile/sujeetsk">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
   </a>
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" alt="divider"/>
 
 ## 💼 About Me
 
@@ -29,43 +35,44 @@ Engineering graduate and aspiring **software developer** with a strong foundatio
 - 🤝 &nbsp;Quick learner with strong communication and teamwork
 - 🎯 &nbsp;Committed to continuous learning and professional growth
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" alt="divider"/>
 
 ## 🛠️ Tech Stack
 
 <p align="center"><strong>Languages</strong></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <a href="#"><img src="https://skillicons.dev/icons?i=java,c,js,html,css,mysql" alt="languages"/></a>
 </p>
 
 <p align="center"><strong>Frameworks &amp; Libraries</strong></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <a href="#"><img src="https://skillicons.dev/icons?i=react,nodejs" alt="frameworks"/></a>
 </p>
 
 <p align="center"><strong>Tools &amp; Platforms</strong></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <a href="#"><img src="https://skillicons.dev/icons?i=git,github,idea,vscode" alt="tools"/></a>
 </p>
 
 <p align="center"><strong>Core Competencies</strong></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="DSA"/>
-  <img src="https://img.shields.io/badge/OOP-4B8BBE?style=for-the-badge&logo=openjdk&logoColor=white" alt="OOP"/>
-  <img src="https://img.shields.io/badge/DBMS-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="DBMS"/>
-  <img src="https://img.shields.io/badge/JDBC-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="JDBC"/>
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+  <img src="https://img.shields.io/badge/OOP-4B8BBE?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DBMS-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JDBC-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" alt="divider"/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+### 🔥 Streak Stats
+
+<img src="https://streak-stats.demolab.com/?user=Sujeet-sk&theme=radical&hide_border=true&locale=en&v=2" alt="GitHub Streak" />
+
+</div>
 
 ## 🎯 Featured Projects
 
@@ -98,13 +105,13 @@ Engineering graduate and aspiring **software developer** with a strong foundatio
   </tr>
 </table>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" alt="divider"/>
 
 ## 🎓 Education
 
 **B.E. in Electronics & Communication Engineering** — Chandigarh University, Mohali &nbsp;·&nbsp; *Aug 2022 – May 2026* &nbsp;·&nbsp; **CGPA 8.46/10**
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" alt="divider"/>
 
 ## 🎖️ Achievements
 
@@ -113,7 +120,7 @@ Engineering graduate and aspiring **software developer** with a strong foundatio
 - 📜 &nbsp;Certificate of Appreciation as **Class Representative (2024–25)**
 - 🧩 &nbsp;Selected participant in **QuizOff 2026** among 5,25,000+ students
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" alt="divider"/>
 
 ## 🎯 Let's Connect
 
@@ -123,17 +130,23 @@ Engineering graduate and aspiring **software developer** with a strong foundatio
 
 <p align="center">
   <a href="mailto:sujeet.13kr@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/sujeet-kumar-55659a289/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/Sujeet_sk/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   <a href="https://www.geeksforgeeks.org/profile/sujeetsk">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
   </a>
 </p>
 
 <p align="center"><em>"Dream in code. Build in reality." 🚀</em></p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=20&pause=1000&color=00FFCC&center=true&vCenter=true&width=450&lines=Thanks+for+visiting!;Let's+build+something+together." alt="Footer Typing SVG"/>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer"/>
