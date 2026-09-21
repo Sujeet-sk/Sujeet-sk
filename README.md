@@ -68,7 +68,7 @@ Engineering graduate and aspiring **software developer** with a strong foundatio
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=Sujeet-sk&show_icons=true&hide_border=true&theme=radical" alt="Sujeet's GitHub Stats" />
+<img height="165" src="https://streak-stats.demolab.com?user=Sujeet-sk&theme=radical&hide_border=true" alt="GitHub Streak" />
 <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sujeet-sk&layout=compact&hide_border=true&theme=radical&langs_count=8" alt="Top Languages" />
 
 </div>
