@@ -51,7 +51,7 @@ Engineering graduate and aspiring **software developer** with a strong foundatio
 
 <p align="center"><strong>Tools &amp; Platforms</strong></p>
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=git,github,idea,vscode" alt="tools"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=git,github,idea,vscode,docker,redis,maven,spring,vite" alt="tools"/></a>
 </p>
 
 <p align="center"><strong>Core Competencies</strong></p>
@@ -76,6 +76,20 @@ Engineering graduate and aspiring **software developer** with a strong foundatio
 ## 🎯 Featured Projects
 
 <table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚖️ CodeGavel — Online Code Judge</h3>
+      <p><em>Java · Spring Boot · Docker · Redis · MySQL · JWT · React</em></p>
+      <p>A full-stack online judge for DSA practice that grades submitted Java code into five verdicts (Accepted, Wrong Answer, Runtime Error, Compilation Error, Time Limit Exceeded). Every submission runs in a locked-down Docker container (no network, memory/CPU/process limits, non-root user), is queued through Redis for a background worker, and is protected with Spring Security and JWT. React front end with the Monaco Editor.
+      <br><a href="https://github.com/Sujeet-sk/CodeGavel">→ View Repository</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔍 ResumeLens — AI Resume Matcher</h3>
+      <p><em>Java · Spring Boot · React · Gemini API · JUnit 5</em></p>
+      <p>A full-stack resume-to-job-description analyzer. Upload a PDF, DOCX, or TXT resume and get matched and missing skills through normalized, word-boundary matching (Java never matches JavaScript), plus tailored bullet suggestions from the Gemini API that follow a strict JSON schema, are validated with a safe fallback, and never fabricate experience. Edge cases are covered by JUnit 5 tests.
+      <br><a href="https://github.com/Sujeet-sk/ResumeLens">→ View Repository</a></p>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>👥 Employee Management System</h3>
