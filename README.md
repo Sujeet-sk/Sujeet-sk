@@ -1,9 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sujeet%20Kumar&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=30&font=Kanit&desc=Software%20Developer&descSize=20&descAlignY=55" alt="header"/>
 
 <p align="center">
-  <a href="https://github.com/Sujeet-sk">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=24&pause=1000&color=FF6EC7&center=true&vCenter=true&width=500&lines=Software+Developer;DSA+Enthusiast;Exploring+Technologies;Building+Projects%2C+Solving+Problems" alt="Typing SVG"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=24&pause=1000&color=FF6EC7&center=true&vCenter=true&width=500&lines=Software+Developer;DSA+Enthusiast;Exploring+Technologies;Building+Projects%2C+Solving+Problems" alt="Typing SVG"/>
 </p>
 
 
@@ -41,17 +39,17 @@ Engineering graduate and aspiring **software developer** with a strong foundatio
 
 <p align="center"><strong>Languages</strong></p>
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=java,c,js,html,css,mysql" alt="languages"/></a>
+  <img src="https://skillicons.dev/icons?i=java,c,js,html,css,mysql" alt="languages"/>
 </p>
 
 <p align="center"><strong>Frameworks &amp; Libraries</strong></p>
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=react,nodejs" alt="frameworks"/></a>
+  <img src="https://skillicons.dev/icons?i=react,nodejs" alt="frameworks"/>
 </p>
 
 <p align="center"><strong>Tools &amp; Platforms</strong></p>
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=git,github,idea,vscode,docker,redis,maven,spring,vite" alt="tools"/></a>
+  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,docker,redis,maven,spring,vite" alt="tools"/>
 </p>
 
 <p align="center"><strong>Core Competencies</strong></p>
