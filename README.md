@@ -1,35 +1,25 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?
-type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sujeet%20Kumar&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=30&fontAlign=50&desc=Engineering%20Mindset%20%7C%20Software%20Craft&descSize=20&descAlignY=55" alt="header"/> <p align="center"> 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sujeet%20Kumar&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=30&fontAlign=50&desc=Engineering%20Mindset%20%7C%20Software%20Craft&descSize=20&descAlignY=55" alt="header"/> <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=24&pause=1000&color=FF6EC7&center=true&vCenter=true&width=650&lines=Secure+by+Design.+Tested+by+Default;Java+%26+Full-Stack+Development;Where+Algorithms+Meet+Real+Applications;Building+CodeGavel+%F0%9F%9A%A7" alt="Typing SVG"/> </p> <p align="center"> <a href="https://www.linkedin.com/in/sujeet-kumar-55659a289/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:sujeet.13kr@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://leetcode.com/u/Sujeet_sk/"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/> </a> <a href="https://www.geeksforgeeks.org/profile/sujeetsk"> <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/> </a> </p> <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" alt="divider"/>
-
-## 👋 About Me
-
-I'm **Sujeet**, a B.E. graduate in Electronics & Communication Engineering (2026) and a **fresher looking for my first opportunity** in software development. I'm focused on **Java backend and full-stack development**, and I've been building real projects to prove my skills rather than just listing them.
+👋 About Me
+I'm Sujeet, a B.E. graduate in Electronics & Communication Engineering (2026) and a fresher looking for my first opportunity in software development. I'm focused on Java backend and full-stack development, and I've been building real projects to prove my skills rather than just listing them.
 
 I'm looking for a team where I can contribute, keep learning from experienced engineers, and grow as a developer.
+🧰 What I Bring
+- 🛠️  6 projects built, including a Docker-sandboxed code judge, an AI resume matcher, and a database-backed management system
+- 🧠  250+ DSA problems solved across LeetCode & GeeksforGeeks, with attention to time and space complexity
+- ☕  Solid fundamentals in Java, OOP, SQL/DBMS, and REST APIs with Spring Boot
+- ✅  Testing mindset: JUnit-tested service layers and edge-case coverage
+- 🔐  Security-aware: JWT authentication and sandboxed code execution
+- 🤝  Team experience: led a team of four on an embedded systems project
+- 🎓  CGPA 8.46/10 and GATE 2025 qualified
+🎯 Roles I'm Looking For
+	
+💼 Roles	Java Backend Developer · Full-Stack Developer · Software Engineer (Fresher / Trainee)
+🧑‍🎓 Also open to	Internships and project collaborations
+🧭 Stack focus	Java · Spring Boot · React · MySQL · Docker
 
-### 🧰 What I Bring
 
-- 🛠️ &nbsp;**6 projects built**, including a Docker-sandboxed code judge, an AI resume matcher, and a database-backed management system
-- 🧠 &nbsp;**250+ DSA problems solved** across LeetCode & GeeksforGeeks, with attention to time and space complexity
-- ☕ &nbsp;**Solid fundamentals** in Java, OOP, SQL/DBMS, and REST APIs with Spring Boot
-- ✅ &nbsp;**Testing mindset**: JUnit-tested service layers and edge-case coverage
-- 🔐 &nbsp;**Security-aware**: JWT authentication and sandboxed code execution
-- 🤝 &nbsp;**Team experience**: led a team of four on an embedded systems project
-- 🎓 &nbsp;**CGPA 8.46/10** and **GATE 2025 qualified**
-
-### 🎯 Roles I'm Looking For
-
-| | |
-|---|---|
-| 💼 **Roles** | Java Backend Developer · Full-Stack Developer · Software Engineer (Fresher / Trainee) |
-| 🧑‍🎓 **Also open to** | Internships and project collaborations |
-| 🧭 **Stack focus** | Java · Spring Boot · React · MySQL · Docker |
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" alt="divider"/>
-
-## 🎯 Featured Projects
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" alt="divider"/>🎯 Featured Projects
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -85,12 +75,7 @@ I'm looking for a team where I can contribute, keep learning from experienced en
       <p>Expanding CodeGavel with guided lessons and algorithm visualizations, and continuing daily DSA practice to sharpen problem-solving for technical interviews.</p>
     </td>
   </tr>
-</table>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" alt="divider"/>
-
-## 🛠️ Tech Stack
-
+</table><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" alt="divider"/>🛠️ Tech Stack
 <table>
   <tr>
     <td width="22%"><b>☕ Languages</b></td>
@@ -152,43 +137,19 @@ I'm looking for a team where I can contribute, keep learning from experienced en
       <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
     </td>
   </tr>
-</table>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" alt="divider"/>
-
-## 🎓 Education
-
-**B.E. in Electronics & Communication Engineering** — Chandigarh University, Mohali &nbsp;·&nbsp; *Aug 2022 – May 2026* &nbsp;·&nbsp; **CGPA 8.46/10**
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" alt="divider"/>
-
-## 🎖️ Achievements
-
-- 🏅 &nbsp;**GATE 2025 qualified** in Electronics & Communication Engineering
-- 🥈 &nbsp;**2nd Prize in Academics** at Chandigarh University for outstanding performance
-- 📜 &nbsp;Certificate of Appreciation as **Class Representative (2024–25)**
-- 🧩 &nbsp;Selected participant in **QuizOff 2026** among 5,25,000+ students
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" alt="divider"/>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://streak-stats.demolab.com?user=Sujeet-sk&theme=radical&hide_border=true" alt="GitHub Streak" />
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sujeet-sk&layout=compact&hide_border=true&theme=radical&langs_count=8" alt="Top Languages" />
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" alt="divider"/>
-
-## 🤝 Let's Connect
-
+</table><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" alt="divider"/>🎓 Education
+B.E. in Electronics & Communication Engineering — Chandigarh University, Mohali  ·  Aug 2022 – May 2026  ·  CGPA 8.46/10
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" alt="divider"/>🎖️ Achievements
+- 🏅  GATE 2025 qualified in Electronics & Communication Engineering
+- 🥈  2nd Prize in Academics at Chandigarh University for outstanding performance
+- 📜  Certificate of Appreciation as Class Representative (2024–25)
+- 🧩  Selected participant in QuizOff 2026 among 5,25,000+ students
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" alt="divider"/>📊 GitHub Analytics
+<div align="center"><img height="165" src="https://streak-stats.demolab.com?user=Sujeet-sk&theme=radical&hide_border=true" alt="GitHub Streak" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sujeet-sk&layout=compact&hide_border=true&theme=radical&langs_count=8" alt="Top Languages" /></div><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" alt="divider"/>🤝 Let's Connect
 <p align="center">
   Fresher with hands-on Java and full-stack project experience, open to the right opportunity. If you're hiring for a <b>Java backend / full-stack</b> role or want to collaborate on a project, feel free to reach out.
-</p>
-
-<p align="center">
+</p><p align="center">
   <a href="mailto:sujeet.13kr@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -201,12 +162,6 @@ I'm looking for a team where I can contribute, keep learning from experienced en
   <a href="https://www.geeksforgeeks.org/profile/sujeetsk">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
   </a>
-</p>
-
-<p align="center"><em>"Dream in code. Build in reality." 🚀</em></p>
-
-<p align="center">
+</p><p align="center"><em>"Dream in code. Build in reality." 🚀</em></p><p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=20&pause=1000&color=00FFCC&center=true&vCenter=true&width=450&lines=Thanks+for+visiting!;Let's+build+something+together." alt="Footer Typing SVG"/>
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer"/>
+</p><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer"/>
