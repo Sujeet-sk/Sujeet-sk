@@ -1,9 +1,12 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sujeet%20Kumar&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=30&font=Kanit&desc=Software%20Developer&descSize=20&descAlignY=55" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sujeet%20Kumar&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=30&font=Kanit&desc=Engineering%20Graduate%20%7C%20Fresher%20%7C%20Open%20to%20Work&descSize=20&descAlignY=55" alt="header"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=24&pause=1000&color=FF6EC7&center=true&vCenter=true&width=500&lines=Software+Developer;DSA+Enthusiast;Exploring+Technologies;Building+Projects%2C+Solving+Problems" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=24&pause=1000&color=FF6EC7&center=true&vCenter=true&width=650&lines=Fresher+Looking+for+a+First+Opportunity;Java+%26+Full-Stack+Development;250%2B+DSA+Problems+Solved;Building+CodeGavel+%F0%9F%9A%A7" alt="Typing SVG"/>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Fresher%20Roles%20%26%20Internships-brightgreen?style=for-the-badge" alt="Open to work"/>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sujeet-kumar-55659a289/">
@@ -16,69 +19,47 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
   <a href="https://www.geeksforgeeks.org/profile/sujeetsk">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
   </a>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" alt="divider"/>
 
-## 💼 About Me
+## 👋 About Me
 
-Engineering graduate and aspiring **software developer** with a strong foundation in **Java, DSA, OOP, and SQL/DBMS**. I enjoy building clean, database-backed applications end to end and owning software from requirements through delivery. Actively seeking **entry-level roles, internships, and collaborative projects**.
+I'm **Sujeet**, a B.E. graduate in Electronics & Communication Engineering (2026) and a **fresher looking for my first opportunity** in software development. I'm focused on **Java backend and full-stack development**, and I've been building real projects to prove my skills rather than just listing them.
 
-- 🎓 &nbsp;B.E. graduate eager to launch a software developer career
-- 💪 &nbsp;Solid grasp of **Java, Data Structures & Algorithms, and Web Development**
-- 🧠 &nbsp;**250+ problems** solved across LeetCode & GeeksforGeeks
-- 🔍 &nbsp;Detail-oriented, focused on code quality and clean architecture
-- 🤝 &nbsp;Quick learner with strong communication and teamwork
-- 🎯 &nbsp;Committed to continuous learning and professional growth
+I'm looking for a team where I can contribute, keep learning from experienced engineers, and grow as a developer.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" alt="divider"/>
+### 🧰 What I Bring
 
-## 🛠️ Tech Stack
+- 🛠️ &nbsp;**6 projects built**, including a Docker-sandboxed code judge, an AI resume matcher, and a database-backed management system
+- 🧠 &nbsp;**250+ DSA problems solved** across LeetCode & GeeksforGeeks, with attention to time and space complexity
+- ☕ &nbsp;**Solid fundamentals** in Java, OOP, SQL/DBMS, and REST APIs with Spring Boot
+- ✅ &nbsp;**Testing mindset**: JUnit-tested service layers and edge-case coverage
+- 🔐 &nbsp;**Security-aware**: JWT authentication and sandboxed code execution
+- 🤝 &nbsp;**Team experience**: led a team of four on an embedded systems project
+- 🎓 &nbsp;**CGPA 8.46/10** and **GATE 2025 qualified**
 
-<p align="center"><strong>Languages</strong></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,js,html,css,mysql" alt="languages"/>
-</p>
+### 🎯 Roles I'm Looking For
 
-<p align="center"><strong>Frameworks &amp; Libraries</strong></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs" alt="frameworks"/>
-</p>
-
-<p align="center"><strong>Tools &amp; Platforms</strong></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,docker,redis,maven,spring,vite" alt="tools"/>
-</p>
-
-<p align="center"><strong>Core Competencies</strong></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
-  <img src="https://img.shields.io/badge/OOP-4B8BBE?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DBMS-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JDBC-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-</p>
+| | |
+|---|---|
+| 💼 **Roles** | Java Backend Developer · Full-Stack Developer · Software Engineer (Fresher / Trainee) |
+| 🧑‍🎓 **Also open to** | Internships and project collaborations |
+| 🧭 **Stack focus** | Java · Spring Boot · React · MySQL · Docker |
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" alt="divider"/>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://streak-stats.demolab.com?user=Sujeet-sk&theme=radical&hide_border=true" alt="GitHub Streak" />
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sujeet-sk&layout=compact&hide_border=true&theme=radical&langs_count=8" alt="Top Languages" />
-
-</div>
 
 ## 🎯 Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚖️ CodeGavel — Online Code Judge</h3>
+      <h3>⚖️ CodeGavel — Online Code Judge &nbsp;🚧 <em>In Progress</em></h3>
       <p><em>Java · Spring Boot · Docker · Redis · MySQL · JWT · React</em></p>
-      <p>A full-stack online judge for DSA practice that grades submitted Java code into five verdicts (Accepted, Wrong Answer, Runtime Error, Compilation Error, Time Limit Exceeded). Every submission runs in a locked-down Docker container (no network, memory/CPU/process limits, non-root user), is queued through Redis for a background worker, and is protected with Spring Security and JWT. React front end with the Monaco Editor.
+      <p>My flagship project: a full-stack online judge for DSA practice that grades submitted Java code into five verdicts (Accepted, Wrong Answer, Runtime Error, Compilation Error, Time Limit Exceeded). Every submission runs in a locked-down Docker container (no network, memory/CPU/process limits, non-root user), is queued through Redis for a background worker, and is protected with Spring Security and JWT. React front end with the Monaco Editor.
+      <br><b>Currently building:</b> guided lessons and algorithm visualizations to grow it into a full learning platform.
       <br><a href="https://github.com/Sujeet-sk/CodeGavel">→ View Repository</a></p>
     </td>
     <td width="50%" valign="top">
@@ -122,9 +103,39 @@ Engineering graduate and aspiring **software developer** with a strong foundatio
       <p>A self-contained PIN-based access-control system on an STM32 microcontroller, reading a 4×4 matrix keypad over GPIO and giving real-time LCD feedback, with firmware cleanly split into input, validation-logic, and display modules.</p>
     </td>
     <td width="50%" valign="top">
+      <h3>🌱 Currently Working On</h3>
+      <p><em>Java · Spring Boot · React</em></p>
+      <p>Expanding CodeGavel with guided lessons and algorithm visualizations, and continuing daily DSA practice to sharpen problem-solving for technical interviews.</p>
     </td>
   </tr>
 </table>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" alt="divider"/>
+
+## 🛠️ Tech Stack
+
+<p align="center"><strong>Languages</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,c,js,html,css,mysql" alt="languages"/>
+</p>
+
+<p align="center"><strong>Frameworks &amp; Libraries</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs" alt="frameworks"/>
+</p>
+
+<p align="center"><strong>Tools &amp; Platforms</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,docker,redis,maven,spring,vite" alt="tools"/>
+</p>
+
+<p align="center"><strong>Core Competencies</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+  <img src="https://img.shields.io/badge/OOP-4B8BBE?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DBMS-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JDBC-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" alt="divider"/>
 
@@ -143,10 +154,21 @@ Engineering graduate and aspiring **software developer** with a strong foundatio
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" alt="divider"/>
 
-## 🎯 Let's Connect
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://streak-stats.demolab.com?user=Sujeet-sk&theme=radical&hide_border=true" alt="GitHub Streak" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sujeet-sk&layout=compact&hide_border=true&theme=radical&langs_count=8" alt="Top Languages" />
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" alt="divider"/>
+
+## 🤝 Let's Connect
 
 <p align="center">
-  I'm actively seeking opportunities to apply my skills and grow. Full-time, internship, or collaboration — I'd love to hear from you!
+  Fresher with hands-on Java and full-stack project experience, open to the right opportunity. If you're hiring for a <b>Java backend / full-stack</b> role or want to collaborate on a project, feel free to reach out.
 </p>
 
 <p align="center">
