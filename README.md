@@ -12,12 +12,10 @@ I'm looking for a team where I can contribute, keep learning from experienced en
 - 🔐  Security-aware: JWT authentication and sandboxed code execution
 - 🤝  Team experience: led a team of four on an embedded systems project
 - 🎓  CGPA 8.46/10 and GATE 2025 qualified
-🎯 Roles I'm Looking For
-	
+  🎯 Roles I'm Looking For
 💼 Roles	Java Backend Developer · Full-Stack Developer · Software Engineer (Fresher / Trainee)
 🧑‍🎓 Also open to	Internships and project collaborations
 🧭 Stack focus	Java · Spring Boot · React · MySQL · Docker
-
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" alt="divider"/>🎯 Featured Projects
 <table>
@@ -56,23 +54,6 @@ I'm looking for a team where I can contribute, keep learning from experienced en
       <p><em>Java · Problem Solving</em></p>
       <p>A growing collection of 250+ Data Structures & Algorithms solutions across LeetCode and GeeksforGeeks, organized by topic with a focus on time and space complexity analysis.
       <br><a href="https://github.com/Sujeet-sk/Data-Structures-and-Algorithms">→ View Repository</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 Anthropomorphic Robotic Hand</h3>
-      <p><em>Embedded C · STM32 · ARM Cortex-M4</em></p>
-      <p>Led a team of four to translate flex-sensor finger movement into real-time robotic-hand motion through a calibrated ADC-to-PWM control pipeline, with firmware partitioned into independent, testable signal-processing and motor-control routines.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔐 Keypad PIN Security System</h3>
-      <p><em>Embedded C · STM32 · LCD</em></p>
-      <p>A self-contained PIN-based access-control system on an STM32 microcontroller, reading a 4×4 matrix keypad over GPIO and giving real-time LCD feedback, with firmware cleanly split into input, validation-logic, and display modules.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌱 Currently Working On</h3>
-      <p><em>Java · Spring Boot · React</em></p>
-      <p>Expanding CodeGavel with guided lessons and algorithm visualizations, and continuing daily DSA practice to sharpen problem-solving for technical interviews.</p>
     </td>
   </tr>
 </table><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" alt="divider"/>🛠️ Tech Stack
