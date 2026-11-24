@@ -1,36 +1,46 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sujeet%20Kumar&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=30&fontAlign=50&desc=Engineering%20Mindset%20%7C%20Software%20Craft&descSize=20&descAlignY=55" alt="header"/> <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=24&pause=1000&color=FF6EC7&center=true&vCenter=true&width=650&lines=Secure+by+Design.+Tested+by+Default;Java+%26+Full-Stack+Development;Where+Algorithms+Meet+Real+Applications;Building+CodeGavel+%F0%9F%9A%A7" alt="Typing SVG"/> </p> <p align="center"> <a href="https://www.linkedin.com/in/sujeet-kumar-55659a289/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:sujeet.13kr@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://leetcode.com/u/Sujeet_sk/"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/> </a> <a href="https://www.geeksforgeeks.org/profile/sujeetsk"> <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/> </a> </p> <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" alt="divider"/>
-👋 About Me
-I'm Sujeet, a B.E. graduate in Electronics & Communication Engineering (2026) and a fresher looking for my first opportunity in software development. I'm focused on Java backend and full-stack development, and I've been building real projects to prove my skills rather than just listing them.
 
-I'm looking for a team where I can contribute, keep learning from experienced engineers, and grow as a developer.
-🧰 What I Bring
-- 🛠️  6 projects built, including a Docker-sandboxed code judge, an AI resume matcher, and a database-backed management system
-- 🧠  250+ DSA problems solved across LeetCode & GeeksforGeeks, with attention to time and space complexity
-- ☕  Solid fundamentals in Java, OOP, SQL/DBMS, and REST APIs with Spring Boot
-- ✅  Testing mindset: JUnit-tested service layers and edge-case coverage
-- 🔐  Security-aware: JWT authentication and sandboxed code execution
-- 🤝  Team experience: led a team of four on an embedded systems project
-- 🎓  CGPA 8.46/10 and GATE 2025 qualified
-  🎯 Roles I'm Looking For
-💼 Roles	Java Backend Developer · Full-Stack Developer · Software Engineer (Fresher / Trainee)
-🧑‍🎓 Also open to	Internships and project collaborations
-🧭 Stack focus	Java · Spring Boot · React · MySQL · Docker
+## 👋 About Me
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" alt="divider"/>🎯 Featured Projects
+I'm Sujeet, a B.E. graduate in Electronics & Communication Engineering (2026) and a fresher looking for my first opportunity in software development. My focus is Java backend and full-stack development, and I build real projects to prove my skills rather than just listing them.
+
+I'm looking for a team where I can contribute, learn from experienced engineers and keep growing as a developer.
+
+## 🧰 What I Bring
+
+- 🧠  270+ DSA problems solved across LeetCode and GeeksforGeeks, with attention to time and space complexity
+- ☕  Strong fundamentals in Java, OOP, SQL/DBMS and REST APIs with Spring Boot
+- ✅  Testing mindset: JUnit-tested code and edge-case coverage
+- 🔐  Security-aware: JWT authentication and sandboxed code execution
+- 🤝  Team leadership: led a team of four on an embedded systems project
+- 🎓  CGPA 8.46/10 and GATE 2025 qualified
+
+## 🎯 Roles I'm Looking For
+
+| | |
+|---|---|
+| 💼 **Roles** | Java Backend Developer · Full-Stack Developer · Software Engineer (Fresher / Trainee) |
+| 🧑‍🎓 **Also open to** | Internships and project collaborations |
+| 🧭 **Stack focus** | Java · Spring Boot · React · MySQL · Docker |
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" alt="divider"/>
+
+## 🎯 Featured Projects
+
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>⚖️ CodeGavel — Online Code Judge &nbsp;🚧 <em>In Progress</em></h3>
       <p><em>Java · Spring Boot · Docker · Redis · MySQL · JWT · React</em></p>
-      <p>My flagship project: a full-stack online judge for DSA practice that grades submitted Java code into five verdicts (Accepted, Wrong Answer, Runtime Error, Compilation Error, Time Limit Exceeded). Every submission runs in a locked-down Docker container (no network, memory/CPU/process limits, non-root user), is queued through Redis for a background worker, and is protected with Spring Security and JWT. React front end with the Monaco Editor.
-      <br><b>Currently building:</b> guided lessons and algorithm visualizations to grow it into a full learning platform.
+      <p>My flagship project: a full-stack online judge and coding practice platform. Java solutions are compiled, tested against predefined cases and graded into five verdicts (Accepted, Wrong Answer, Compilation Error, Runtime Error, Time Limit Exceeded), with a System Error status for internal failures. Submissions are queued in Redis, picked up by a background worker and run in a locked-down Docker container (no network, CPU/memory/process limits, dropped capabilities, non-root user). Spring Security and JWT protect the API, and the React front end uses the Monaco Editor.
+      <br><b>Currently building:</b> C++, C and Python execution support, a curated problem library and production deployment.
       <br><a href="https://github.com/Sujeet-sk/CodeGavel">→ View Repository</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>🔍 ResumeLens — AI Resume Matcher</h3>
       <p><em>Java · Spring Boot · React · Gemini API · JUnit 5</em></p>
-      <p>A full-stack resume-to-job-description analyzer. Upload a PDF, DOCX, or TXT resume and get matched and missing skills through normalized, word-boundary matching (Java never matches JavaScript), plus tailored bullet suggestions from the Gemini API that follow a strict JSON schema, are validated with a safe fallback, and never fabricate experience. Edge cases are covered by JUnit 5 tests.
+      <p>A full-stack resume-to-job-description analyzer. Upload a PDF, DOCX or TXT resume to get a fit score with matched and missing skills, using normalized, word-boundary matching (Java never matches JavaScript). The Gemini API adds tailored bullet suggestions that follow a strict JSON schema, are validated with a safe fallback and never fabricate experience. The stateless Spring Boot API keeps the Gemini key server-side, and JUnit 5 tests cover the matching edge cases.
       <br><a href="https://github.com/Sujeet-sk/ResumeLens">→ View Repository</a></p>
     </td>
   </tr>
@@ -38,13 +48,13 @@ I'm looking for a team where I can contribute, keep learning from experienced en
     <td width="50%" valign="top">
       <h3>👥 Employee Management System</h3>
       <p><em>Java · JDBC · MySQL · HikariCP · JUnit · Maven</em></p>
-      <p>End-to-end CRUD and reporting application on a layered architecture (model / DAO / service / UI), backed by MySQL through a pooled JDBC connection. Features transactional department reassignment, a SQL aggregation report (per-department headcount, salary stats, and payroll), parameterized queries, and a JUnit-tested service layer.
+      <p>An end-to-end CRUD and reporting application on a layered architecture (model / DAO / service / UI), backed by MySQL through a pooled JDBC connection. It features transactional department reassignment, a SQL aggregation report (per-department headcount, salary stats and payroll), parameterized queries and a JUnit-tested service layer.
       <br><a href="https://github.com/Sujeet-sk/employee-management-system">→ View Repository</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>✅ TaskFlow — Task Manager</h3>
       <p><em>HTML5 · CSS3 · JavaScript</em></p>
-      <p>A responsive task-management dashboard built in vanilla JavaScript. Supports full CRUD with categories, priorities, search, and date-based filters, persists data in the browser via localStorage, and renders live statistics plus a weekly analytics chart driven entirely by DOM manipulation.
+      <p>A responsive task-management dashboard built in vanilla JavaScript. It supports full CRUD with categories, priorities, search and date-based filters, saves data in the browser with localStorage, and shows live statistics and a weekly analytics chart driven entirely by DOM manipulation.
       <br><a href="https://github.com/Sujeet-sk/ToDo-App">→ View Repository</a></p>
     </td>
   </tr>
@@ -52,11 +62,16 @@ I'm looking for a team where I can contribute, keep learning from experienced en
     <td width="50%" valign="top">
       <h3>📚 DSA Repository</h3>
       <p><em>Java · Problem Solving</em></p>
-      <p>A growing collection of 250+ Data Structures & Algorithms solutions across LeetCode and GeeksforGeeks, organized by topic with a focus on time and space complexity analysis.
+      <p>A growing collection of 270+ Data Structures & Algorithms solutions across LeetCode and GeeksforGeeks, organized by topic with a focus on time and space complexity analysis.
       <br><a href="https://github.com/Sujeet-sk/Data-Structures-and-Algorithms">→ View Repository</a></p>
     </td>
   </tr>
-</table><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" alt="divider"/>🛠️ Tech Stack
+</table>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" alt="divider"/>
+
+## 🛠️ Tech Stack
+
 <table>
   <tr>
     <td width="22%"><b>☕ Languages</b></td>
@@ -118,19 +133,39 @@ I'm looking for a team where I can contribute, keep learning from experienced en
       <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
     </td>
   </tr>
-</table><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" alt="divider"/>🎓 Education
-B.E. in Electronics & Communication Engineering — Chandigarh University, Mohali  ·  Aug 2022 – May 2026  ·  CGPA 8.46/10
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" alt="divider"/>🎖️ Achievements
-- 🏅  GATE 2025 qualified in Electronics & Communication Engineering
-- 🥈  2nd Prize in Academics at Chandigarh University for outstanding performance
-- 📜  Certificate of Appreciation as Class Representative (2024–25)
-- 🧩  Selected participant in QuizOff 2026 among 5,25,000+ students
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" alt="divider"/>📊 GitHub Analytics
+</table>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" alt="divider"/>
+
+## 🎓 Education
+
+**B.E. in Electronics & Communication Engineering** — Chandigarh University, Mohali  ·  Aug 2022 – May 2026  ·  CGPA 8.46/10
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" alt="divider"/>
+
+## 🎖️ Achievements
+
+- 🏅  GATE 2025 qualified in Electronics & Communication Engineering
+- 🥈  2nd Prize in Academics at Chandigarh University for outstanding performance
+- 📜  Certificate of Appreciation as Class Representative (2024–25)
+- 🧩  Selected participant in QuizOff 2026 among 525,000+ students
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" alt="divider"/>
+
+## 📊 GitHub Analytics
+
 <div align="center"><img height="165" src="https://streak-stats.demolab.com?user=Sujeet-sk&theme=radical&hide_border=true" alt="GitHub Streak" />
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sujeet-sk&layout=compact&hide_border=true&theme=radical&langs_count=8" alt="Top Languages" /></div><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" alt="divider"/>🤝 Let's Connect
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sujeet-sk&layout=compact&hide_border=true&theme=radical&langs_count=8" alt="Top Languages" /></div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" alt="divider"/>
+
+## 🤝 Let's Connect
+
 <p align="center">
-  Fresher with hands-on Java and full-stack project experience, open to the right opportunity. If you're hiring for a <b>Java backend / full-stack</b> role or want to collaborate on a project, feel free to reach out.
-</p><p align="center">
+  Fresher with hands-on Java and full-stack project experience. If you're hiring for a <b>Java backend / full-stack</b> role, or want to collaborate on a project, I'd love to hear from you.
+</p>
+
+<p align="center">
   <a href="mailto:sujeet.13kr@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
