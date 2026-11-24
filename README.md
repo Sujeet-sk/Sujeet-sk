@@ -9,12 +9,13 @@ I'm looking for a team where I can contribute, learn from experienced engineers 
 
 ## 🧰 What I Bring
 
-- 🧠  270+ DSA problems solved across LeetCode and GeeksforGeeks, with attention to time and space complexity
-- ☕  Strong fundamentals in Java, OOP, SQL/DBMS and REST APIs with Spring Boot
-- ✅  Testing mindset: JUnit-tested code and edge-case coverage
-- 🔐  Security-aware: JWT authentication and sandboxed code execution
-- 🤝  Team leadership: led a team of four on an embedded systems project
-- 🎓  CGPA 8.46/10 and GATE 2025 qualified
+- ☕  **Java backend development:** solid Java, OOP and SQL fundamentals, applied to Spring Boot REST APIs, JWT security and MySQL in CodeGavel and ResumeLens
+- 🧠  **Problem solving:** 270+ DSA problems solved across LeetCode and GeeksforGeeks, with attention to time and space complexity
+- 🔐  **Security-aware design:** JWT authentication and Docker-sandboxed execution of untrusted code
+- ✅  **Testing mindset:** JUnit 5 tests for edge cases such as Java vs. JavaScript skill matching
+- 🔧  **Git and GitHub:** every project version-controlled and published on GitHub with a documented repository
+- 🤝  **Teamwork and leadership:** led a team of four on an embedded systems project
+- 🎓  **Strong academics:** CGPA 8.46/10 and GATE 2025 qualified
 
 ## 🎯 Roles I'm Looking For
 
@@ -89,7 +90,6 @@ I'm looking for a team where I can contribute, learn from experienced engineers 
       <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security"/>
       <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
       <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="JDBC"/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
     </td>
   </tr>
   <tr>
@@ -111,6 +111,7 @@ I'm looking for a team where I can contribute, learn from experienced engineers 
   <tr>
     <td><b>🧪 Dev, Testing &amp; DevOps</b></td>
     <td>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
       <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/>
